@@ -1,4 +1,4 @@
-fuel_dump
+# fuel_dump
 
 Quick and easy way to dump your Fuelband activities via API
 
